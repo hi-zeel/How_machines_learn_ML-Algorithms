@@ -183,18 +183,3 @@ python CNN/cifar10_cnn.py
 - Add **NLP** experiments (TF‑IDF, word embeddings, Transformers-lite).
 
 ---
-
-## 🧑‍💻 Author
-
-**Your Name**  
-Master’s student in **Mechatronics** @ Universität Siegen  
-Interests: **AI, Machine Learning, Control Systems**
-
-- LinkedIn: https://www.linkedin.com/in/<your-handle>/
-- Email: <your-email@example.com>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**. See `LICENSE` for details.
